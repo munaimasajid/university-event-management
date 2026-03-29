@@ -84,11 +84,11 @@ Database
 
 When students register saved in database.
 
-!\[Database](screenshots/db1.png)
+!\[Database](screenshots/tablemydata.png)
 
 Table for contact form 
 
-!\[Database](screenshots/db2.png)
+!\[Database](screenshots/tablecontacts.png)
 
 #### Usage
 
