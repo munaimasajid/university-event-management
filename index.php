@@ -1,6 +1,3 @@
-<?php
-// You can start a session or include database connection here if needed
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

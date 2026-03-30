@@ -1,6 +1,3 @@
-<?php
-// You can handle login submission with PHP logic later
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +8,7 @@
 </head>
 <body>
   <header>
-    <h1>Global University</h1>
+    <h1>Air University</h1>
     <nav>
       <a href="index.php">Home</a>
       <a href="about.php">About</a>
@@ -23,7 +20,7 @@
 
   <section class="content">
     <h2>Student Login</h2>
-    <form method="post" action="login_process.php">
+    <form method="post" action="login.php">
       <input type="text" name="username" placeholder="Username" required />
       <input type="password" name="password" placeholder="Password" required />
       <button type="submit">Login</button>
@@ -31,7 +28,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Global University. All rights reserved.</p>
+    <p>&copy; 2025 Air University. All rights reserved.</p>
   </footer>
 </body>
 </html>

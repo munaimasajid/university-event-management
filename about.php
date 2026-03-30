@@ -1,6 +1,3 @@
-<?php
-// Optional: include a config file or start session
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

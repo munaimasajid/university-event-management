@@ -13,7 +13,7 @@ The system allows students to view upcoming events, register for events, and con
 * Event listing with details (date, location, images)
 * Event registration form (data stored in database)
 * Contact form for user queries
-* Simple student login system
+* Simple student login system(currently not in progress)
 * MySQL database integration
 
 ---
@@ -34,8 +34,6 @@ The system allows students to view upcoming events, register for events, and con
 * `events.php` → Event listing
 * `register.php` → Event registration form
 * `contact.php` → Contact form
-* `portal.php` → Student login
-* `login_process.php` → Login authentication
 * `css/` → Stylesheets
 
 ---
@@ -44,16 +42,8 @@ The system allows students to view upcoming events, register for events, and con
 
 1. Install XAMPP
 2. Start **Apache** and **MySQL**
-3. Place project folder in:
-
-   ```
-   D:\xampp\htdocs\
-   ```
-4. Open browser and go to:
-
-   ```
-   http://localhost/webproject
-   ```
+3. Place project folder in: D:\xampp\htdocs\
+4. Open browser and go to: http://localhost/webproject
 5. Import database in phpMyAdmin
 6. Run the project
 
@@ -82,5 +72,5 @@ This project is developed as a **university-level academic project** to demonstr
 ## Author
 
 **Munaima Sajid**
-Student ADCS
+Student (ADCS)
 
